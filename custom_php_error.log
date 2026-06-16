@@ -1,0 +1,128 @@
+[19-May-2025 08:28:22 Europe/Berlin] Database error: Unknown database 'sitedb'
+[19-May-2025 08:31:28 Europe/Berlin] PHP Warning:  Undefined array key "UserType" in C:\xampp\htdocs\projphp\login.php on line 24
+[19-May-2025 08:31:28 Europe/Berlin] PHP Warning:  Undefined array key "UserType" in C:\xampp\htdocs\projphp\login.php on line 26
+[19-May-2025 08:31:28 Europe/Berlin] PHP Warning:  Undefined array key "UserType" in C:\xampp\htdocs\projphp\login.php on line 30
+[22-May-2025 09:14:25 Europe/Berlin] Database error: Cannot delete or update a parent row: a foreign key constraint fails (`webdb`.`subcategory`, CONSTRAINT `subcategory_ibfk_1` FOREIGN KEY (`catid`) REFERENCES `category` (`catid`))
+[22-May-2025 09:27:47 Europe/Berlin] Database error: Cannot delete or update a parent row: a foreign key constraint fails (`webdb`.`subcategory`, CONSTRAINT `subcategory_ibfk_1` FOREIGN KEY (`catid`) REFERENCES `category` (`catid`))
+[28-May-2025 17:00:13 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:01:29 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:01:30 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:01:30 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:01:30 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:01:30 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:01:30 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:06:38 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:07:40 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:29:56 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:30:58 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:31:45 Europe/Berlin] PHP Warning:  Undefined array key "catid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:31:46 Europe/Berlin] PHP Warning:  Undefined array key "catid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:31:46 Europe/Berlin] PHP Warning:  Undefined array key "catid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:31:46 Europe/Berlin] PHP Warning:  Undefined array key "catid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:31:47 Europe/Berlin] PHP Warning:  Undefined array key "catid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:31:47 Europe/Berlin] PHP Warning:  Undefined array key "catid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:31:47 Europe/Berlin] PHP Warning:  Undefined array key "catid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:33:13 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:33:14 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:35:49 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:36:09 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:36:59 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[28-May-2025 17:37:12 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[29-May-2025 03:33:54 Europe/Berlin] Database error: Unknown column 'stock' in 'field list'
+[29-May-2025 03:36:54 Europe/Berlin] Database error: Cannot add or update a child row: a foreign key constraint fails (`webdb`.`product`, CONSTRAINT `product_ibfk_2` FOREIGN KEY (`subcatid`) REFERENCES `subcategory` (`subcatid`))
+[29-May-2025 03:37:37 Europe/Berlin] Database error: Cannot add or update a child row: a foreign key constraint fails (`webdb`.`product`, CONSTRAINT `product_ibfk_2` FOREIGN KEY (`subcatid`) REFERENCES `subcategory` (`subcatid`))
+[29-May-2025 03:42:29 Europe/Berlin] Database error: Cannot add or update a child row: a foreign key constraint fails (`webdb`.`product`, CONSTRAINT `product_ibfk_2` FOREIGN KEY (`subcatid`) REFERENCES `subcategory` (`subcatid`))
+[29-May-2025 03:43:38 Europe/Berlin] Database error: Cannot add or update a child row: a foreign key constraint fails (`webdb`.`product`, CONSTRAINT `product_ibfk_2` FOREIGN KEY (`subcatid`) REFERENCES `subcategory` (`subcatid`))
+[29-May-2025 03:43:42 Europe/Berlin] PHP Warning:  Undefined array key "catid" in C:\xampp\htdocs\projphp\manageproduct.php on line 142
+[29-May-2025 03:49:29 Europe/Berlin] Database error: Cannot add or update a child row: a foreign key constraint fails (`webdb`.`product`, CONSTRAINT `product_ibfk_2` FOREIGN KEY (`subcatid`) REFERENCES `subcategory` (`subcatid`))
+[29-May-2025 03:56:18 Europe/Berlin] Database error: Cannot add or update a child row: a foreign key constraint fails (`webdb`.`product`, CONSTRAINT `product_ibfk_2` FOREIGN KEY (`subcatid`) REFERENCES `subcategory` (`subcatid`))
+
+[29-May-2025 09:42:44 Europe/Berlin] Database error: Cannot add or update a child row: a foreign key constraint fails (`webdb`.`product`, CONSTRAINT `product_ibfk_2` FOREIGN KEY (`subcatid`) REFERENCES `subcategory` (`subcatid`))
+[29-May-2025 09:45:10 Europe/Berlin] Database error: Cannot add or update a child row: a foreign key constraint fails (`webdb`.`product`, CONSTRAINT `product_ibfk_2` FOREIGN KEY (`subcatid`) REFERENCES `subcategory` (`subcatid`))
+[29-May-2025 16:33:58 Europe/Berlin] PHP Warning:  Undefined array key "cid" in C:\xampp\htdocs\projphp\subcategories.php on line 32
+[29-May-2025 16:41:58 Europe/Berlin] PHP Warning:  require_once(includes/headfiles.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\projphp\details.php on line 105
+[29-May-2025 16:41:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headfiles.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\projphp\details.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\projphp\details.php on line 105
+[29-May-2025 16:43:40 Europe/Berlin] PHP Warning:  require_once(includes/headfiles.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\projphp\details.php on line 105
+[29-May-2025 16:43:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headfiles.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\projphp\details.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\projphp\details.php on line 105
+[29-May-2025 16:44:23 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int * string in C:\xampp\htdocs\projphp\details.php:57
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\projphp\details.php on line 57
+[29-May-2025 16:55:02 Europe/Berlin] Database error: Unknown column 'username' in 'field list'
+[01-Jun-2025 11:27:06 Europe/Berlin] Database error: Unknown column 'username' in 'field list'
+[01-Jun-2025 11:28:55 Europe/Berlin] Database error: Unknown column 'username' in 'field list'
+[01-Jun-2025 11:28:55 Europe/Berlin] PHP Warning:  require_once(includes/headfiles.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\projphp\checkout.php on line 54
+[01-Jun-2025 11:28:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headfiles.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\projphp\checkout.php:54
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\projphp\checkout.php on line 54
+[01-Jun-2025 11:29:06 Europe/Berlin] Database error: Unknown column 'username' in 'field list'
+[01-Jun-2025 17:26:39 Europe/Berlin] Database error: Unknown column 'username' in 'field list'
+[17-Aug-2025 15:03:45 Europe/Berlin] PHP Warning:  Undefined variable $pass in C:\xampp\htdocs\projphp\register.php on line 19
+[17-Aug-2025 15:10:17 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''kamal@gmail.com' at line 1
+[17-Aug-2025 15:11:42 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''kamal@gmail.com' at line 1
+[17-Aug-2025 15:12:46 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''manoj@gmail.com' at line 1
+[17-Aug-2025 16:05:29 Europe/Berlin] Database error: Duplicate entry '9876543210' for key 'PRIMARY'
+[05-Sep-2025 07:06:33 Europe/Berlin] PHP Warning:  Undefined array key "token" in C:\xampp\htdocs\projphp\activateacc.php on line 30
+[05-Sep-2025 07:07:57 Europe/Berlin] PHP Warning:  Undefined array key "token" in C:\xampp\htdocs\projphp\activateacc.php on line 30
+[05-Sep-2025 07:07:59 Europe/Berlin] PHP Warning:  Undefined array key "token" in C:\xampp\htdocs\projphp\activateacc.php on line 30
+[05-Sep-2025 07:08:00 Europe/Berlin] PHP Warning:  Undefined array key "token" in C:\xampp\htdocs\projphp\activateacc.php on line 30
+[05-Sep-2025 07:08:00 Europe/Berlin] PHP Warning:  Undefined array key "token" in C:\xampp\htdocs\projphp\activateacc.php on line 30
+[05-Sep-2025 07:08:00 Europe/Berlin] PHP Warning:  Undefined array key "token" in C:\xampp\htdocs\projphp\activateacc.php on line 30
+[05-Sep-2025 07:08:03 Europe/Berlin] PHP Warning:  Undefined array key "token" in C:\xampp\htdocs\projphp\activateacc.php on line 30
+[05-Sep-2025 07:08:52 Europe/Berlin] PHP Warning:  require(PHPMailer/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\projphp\register.php on line 36
+[05-Sep-2025 07:08:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer/src/Exception.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\projphp\register.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\projphp\register.php on line 36
+[05-Sep-2025 07:09:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '7899878888' for key 'PRIMARY' in C:\xampp\htdocs\projphp\register.php:32
+Stack trace:
+#0 C:\xampp\htdocs\projphp\register.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projphp\register.php on line 32
+[05-Sep-2025 07:10:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '7899878888' for key 'PRIMARY' in C:\xampp\htdocs\projphp\register.php:32
+Stack trace:
+#0 C:\xampp\htdocs\projphp\register.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projphp\register.php on line 32
+[05-Sep-2025 07:10:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'lk3542327@gmail.com' for key 'Username' in C:\xampp\htdocs\projphp\register.php:32
+Stack trace:
+#0 C:\xampp\htdocs\projphp\register.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projphp\register.php on line 32
+[09-Sep-2025 18:21:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in C:\xampp\htdocs\projphp\register.php:32
+Stack trace:
+#0 C:\xampp\htdocs\projphp\register.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projphp\register.php on line 32
+[09-Sep-2025 18:22:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in C:\xampp\htdocs\projphp\register.php:32
+Stack trace:
+#0 C:\xampp\htdocs\projphp\register.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projphp\register.php on line 32
+[15-Sep-2025 18:21:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in C:\xampp\htdocs\projphp\register.php:32
+Stack trace:
+#0 C:\xampp\htdocs\projphp\register.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projphp\register.php on line 32
+[15-Sep-2025 18:22:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in C:\xampp\htdocs\projphp\register.php:32
+Stack trace:
+#0 C:\xampp\htdocs\projphp\register.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projphp\register.php on line 32
+[03-Nov-2025 16:27:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8987677788' for key 'PRIMARY' in C:\xampp\htdocs\finalprojphp\projphp\register.php:32
+Stack trace:
+#0 C:\xampp\htdocs\finalprojphp\projphp\register.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\finalprojphp\projphp\register.php on line 32
+[03-Nov-2025 16:40:55 Europe/Berlin] PHP Warning:  require_once(includes/headfiles.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\finalprojphp\projphp\changepassword.php on line 66
+[03-Nov-2025 16:40:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headfiles.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\finalprojphp\projphp\changepassword.php:66
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\finalprojphp\projphp\changepassword.php on line 66
